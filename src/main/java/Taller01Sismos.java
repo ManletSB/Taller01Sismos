@@ -5,7 +5,8 @@ public class Taller01Sismos {
 
     public static void main(String[] args) {
 
-
+        System.out.println("Bienvenido a Sismografía");
+        iniciar();
     }
 
     public static void menu() {
